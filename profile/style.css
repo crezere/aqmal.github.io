@@ -1,0 +1,37 @@
+/* Gaya untuk elemen header */
+header {
+    text-align: center;
+    background-color: #3498db;
+    color: #fff;
+    padding: 20px;
+}
+
+/* Gaya untuk elemen h1 dalam header */
+header h1 {
+    font-size: 36px;
+}
+
+/* Gaya untuk elemen p dalam header */
+header p {
+    font-size: 18px;
+}
+
+/* Gaya untuk elemen section.profile */
+.profile {
+    text-align: center;
+    margin: 20px;
+}
+
+/* Gaya untuk gambar profil */
+.profile img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+/* Gaya untuk elemen footer */
+footer {
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 10px;
+}
